@@ -22,8 +22,12 @@ if ( ! defined( 'NEWSPACK_LISTINGS_PLUGIN_FILE' ) ) {
 	define( 'NEWSPACK_LISTINGS_VERSION', '1.2.0' );
 }
 
+if ( ! defined( 'NEWSPACK_COMPOSER_ABSPATH' ) ) {
+	define( 'NEWSPACK_COMPOSER_ABSPATH', NEWSPACK_LISTINGS_FILE . '/vendor/' );
+}
+
 // Include plugin resources.
-require_once NEWSPACK_LISTINGS_PLUGIN_FILE . '/vendor/autoload.php';
+require_once NEWSPACK_COMPOSER_ABSPATH . 'autoload.php';
 require_once NEWSPACK_LISTINGS_PLUGIN_FILE . '/includes/utils.php';
 require_once NEWSPACK_LISTINGS_PLUGIN_FILE . '/includes/class-settings.php';
 require_once NEWSPACK_LISTINGS_PLUGIN_FILE . '/includes/class-core.php';
