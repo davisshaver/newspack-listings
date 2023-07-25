@@ -1,3 +1,80 @@
+# [2.13.0](https://github.com/Automattic/newspack-listings/compare/v2.12.8...v2.13.0) (2023-06-19)
+
+
+### Features
+
+* add POT file to Listings plugin ([#371](https://github.com/Automattic/newspack-listings/issues/371)) ([641e61b](https://github.com/Automattic/newspack-listings/commit/641e61b1676ade685714e69c11de985379ca81e2))
+
+# [2.13.0-alpha.1](https://github.com/Automattic/newspack-listings/compare/v2.12.8...v2.13.0-alpha.1) (2023-06-08)
+
+
+### Features
+
+* add POT file to Listings plugin ([#371](https://github.com/Automattic/newspack-listings/issues/371)) ([641e61b](https://github.com/Automattic/newspack-listings/commit/641e61b1676ade685714e69c11de985379ca81e2))
+
+## [2.12.8](https://github.com/Automattic/newspack-listings/compare/v2.12.7...v2.12.8) (2023-05-08)
+
+
+### Bug Fixes
+
+* add pre push hook ([#352](https://github.com/Automattic/newspack-listings/issues/352)) ([a271f9d](https://github.com/Automattic/newspack-listings/commit/a271f9da10b1048537afd144c88c697da4bb4efc))
+
+## [2.12.8-alpha.1](https://github.com/Automattic/newspack-listings/compare/v2.12.7...v2.12.8-alpha.1) (2023-05-02)
+
+
+### Bug Fixes
+
+* add pre push hook ([#352](https://github.com/Automattic/newspack-listings/issues/352)) ([a271f9d](https://github.com/Automattic/newspack-listings/commit/a271f9da10b1048537afd144c88c697da4bb4efc))
+
+## [2.12.7](https://github.com/Automattic/newspack-listings/compare/v2.12.6...v2.12.7) (2023-05-02)
+
+
+### Bug Fixes
+
+* only run self-serve-related actions if enabled ([#364](https://github.com/Automattic/newspack-listings/issues/364)) ([560a3f7](https://github.com/Automattic/newspack-listings/commit/560a3f7efe12c06672dc38b92e6c4418a37f6bd0))
+
+## [2.12.6](https://github.com/Automattic/newspack-listings/compare/v2.12.5...v2.12.6) (2023-04-10)
+
+
+### Bug Fixes
+
+* remove unneeded editor CSS for Event Dates block ([#345](https://github.com/Automattic/newspack-listings/issues/345)) ([fb388ba](https://github.com/Automattic/newspack-listings/commit/fb388ba443bbafba793a0cc21689f3c8b1f2bac3))
+
+## [2.12.6-alpha.1](https://github.com/Automattic/newspack-listings/compare/v2.12.5...v2.12.6-alpha.1) (2023-03-31)
+
+
+### Bug Fixes
+
+* remove unneeded editor CSS for Event Dates block ([#345](https://github.com/Automattic/newspack-listings/issues/345)) ([fb388ba](https://github.com/Automattic/newspack-listings/commit/fb388ba443bbafba793a0cc21689f3c8b1f2bac3))
+
+## [2.12.5](https://github.com/Automattic/newspack-listings/compare/v2.12.4...v2.12.5) (2023-03-01)
+
+
+### Bug Fixes
+
+* resolve merge conflicts ([401bf74](https://github.com/Automattic/newspack-listings/commit/401bf74f2fca05aedb4a9e82d1bff6ab87031a64))
+
+## [2.12.5-alpha.1](https://github.com/Automattic/newspack-listings/compare/v2.12.4...v2.12.5-alpha.1) (2023-03-01)
+
+
+### Bug Fixes
+
+* resolve merge conflicts ([401bf74](https://github.com/Automattic/newspack-listings/commit/401bf74f2fca05aedb4a9e82d1bff6ab87031a64))
+
+## [2.12.4](https://github.com/Automattic/newspack-listings/compare/v2.12.3...v2.12.4) (2023-03-01)
+
+
+### Bug Fixes
+
+* manually bump asset version so CI can pick it up again ([#338](https://github.com/Automattic/newspack-listings/issues/338)) ([d665af4](https://github.com/Automattic/newspack-listings/commit/d665af45aa869b6da733d91dba05833c17b89a7c))
+
+## [2.12.3](https://github.com/Automattic/newspack-listings/compare/v2.12.2...v2.12.3) (2023-03-01)
+
+
+### Bug Fixes
+
+* accommodate any valid date string in newspack_listings_expiration_date ([#337](https://github.com/Automattic/newspack-listings/issues/337)) ([2150707](https://github.com/Automattic/newspack-listings/commit/215070768a1854d86ff725ccf4352c330309696c))
+
 ## [2.12.2](https://github.com/Automattic/newspack-listings/compare/v2.12.1...v2.12.2) (2022-09-27)
 
 
